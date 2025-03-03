@@ -78,7 +78,7 @@ Currated list of actually maintened Org-Mode tools and extensions
 - [[https://github.com/bdarcus/citar][Citar]] :: Add citations in org documents using BibTex
 - [[https://github.com/jkitchin/org-ref][org-ref]] :: Citations and bibliography. To be seen as an Org-cite alternative
 - [[https://github.com/ahmed-shariff/org-noter][org-noter (fork)]] :: Annotate documents using Org-mode
-- [[ttps://github.com/tecosaur/org-glossary][org-glossary]] :: Glossary, acronyms and index management in Org mode leveraging org's definition list
+- [[https://github.com/tecosaur/org-glossary][org-glossary]] :: Glossary, acronyms and index management in Org mode leveraging org's definition list
 - [[https://github.com/akirak/org-epubinfo][org-epubinfo]] :: Manage ePub metadatas using dynamic blocs
 - [[https://github.com/akirak/org-volume][org-volume]] :: Manage book (among others) metadatas using dynamic blocs
 
