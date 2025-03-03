@@ -9,13 +9,16 @@ Currated list of actually maintened Org-Mode tools and extensions
 - [[https://github.com/meedstrom/org-node-fakeroam][org-node-fakeroam]] :: Used to speed up Org-Roam or to be combined to Org-node
 - [[https://github.com/org-roam/org-roam][org-roam]] :: Networked note-taking system
   *Requires* : SQLite
-- [[https://github.com/org-roam/org-roam-bibtex][org-roam-bibtex]] :: Integrate citations tools like org-ref and citar with org-roam
-  :LOAD: :after org-roam
-- [[https://github.com/Kungsgeten/org-brain][org-brain]] :: Concept mapping in Org-mode
-- [[https://github.com/ahmed-shariff/org-roam-ql][org-roam-ql]] :: Query language for org-roam
-  :LOAD: :after org-roam
+
+- [[https://github.com/org-roam/org-roam-bibtex][org-roam-bibtex]] :: Integrate BibTeX citations with org-roam
+  *Requires*: org-roam
+- [[https://github.com/Kungsgeten/org-brain][org-brain]] :: Mind-mapping and brainstorming
+  *Emacs* : 26+
+- [[https://github.com/ahmed-shariff/org-roam-ql][org-roam-ql]] :: Advanced query interface for org-roam
+  *Requires*: org-roam
+- [[https://github.com/yibie/org-supertag][org-supertag]] :: Enhance org-mode tag system, borrow idea from tana
 - [[https://github.com/bastibe/org-journal][org-journal]] :: A simple org-mode based journaling mode
-  
+
 ** Task & Agenda Management
 - [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]] :: Customizable agenda views
 - [[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]] :: Visual time-block planning
