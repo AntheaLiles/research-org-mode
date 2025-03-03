@@ -5,83 +5,86 @@ Currated list of actually maintened Org-Mode tools and extensions
 * Categories
 
 ** Knowledge Management & Zettelkasten
+- [[https://github.com/meedstrom/org-node][org-node]] :: Note taking system alternative to Org-roam, intended to be speed
+- [[https://github.com/meedstrom/org-node-fakeroam][org-node-fakeroam]] :: Used to speed up Org-Roam or to be combined to Org-node
 - [[https://github.com/org-roam/org-roam][org-roam]] :: Networked note-taking system
-  *Emacs* : 27+
   *Requires* : SQLite
-- [[https://github.com/org-roam/org-roam-bibtex][org-roam-bibtex]] :: Integrate BibTeX citations with org-roam
-  *Requires*: org-roam
-- [[https://github.com/Kungsgeten/org-brain][org-brain]] :: Mind-mapping and brainstorming
-  *Emacs* : 26+
-- [[https://github.com/ahmed-shariff/org-roam-ql][org-roam-ql]] :: Advanced query interface for org-roam
-  *Requires*: org-roam
-
+- [[https://github.com/org-roam/org-roam-bibtex][org-roam-bibtex]] :: Integrate citations tools like org-ref and citar with org-roam
+  :LOAD: :after org-roam
+- [[https://github.com/Kungsgeten/org-brain][org-brain]] :: Concept mapping in Org-mode
+- [[https://github.com/ahmed-shariff/org-roam-ql][org-roam-ql]] :: Query language for org-roam
+  :LOAD: :after org-roam
+- [[https://github.com/bastibe/org-journal][org-journal]] :: A simple org-mode based journaling mode
+  
 ** Task & Agenda Management
 - [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]] :: Customizable agenda views
-  *Emacs* : 26+
 - [[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]] :: Visual time-block planning
-  *Emacs* : 28+
 - [[https://github.com/colonelpanic8/org-window-habit][org-window-habit]] :: Habit tracking with pop-up reminders
 - [[https://github.com/org-roam/org-roam-ui][org-roam-ui]] :: Graph visualization for org-roam
   *Requires*: org-roam, Node.js
 - [[https://github.com/akirak/org-reverse-datetree][org-reverse-datetree]] :: Reverse date tree
-- [[https://github.com/akirak/org-chronos][org-chronos]] :: Time tracking and visualization
-- [[https://github.com/akirak/org-starter][org-starter]] :: Starter kit for Org mode
-- [[https://github.com/alphapapa/org-now][org-now]] :: Capture current time
-- [[https://github.com/meedstrom/org-node][org-node]] :: Node-based note-taking
-- [[https://github.com/meedstrom/org-node-fakeroam][org-node-fakeroam]] :: Fake Roam-like experience with Org mode
-- [[https://github.com/meedstrom/org-super-links][org-super-links]] :: Enhanced linking capabilities
-
+- [[https://github.com/akirak/org-chronos][org-chronos]] :: Opinionated time management layer for Org mode
+  *Enhancement* : Can be combined with ~org-journal~ or ~org-reverse-datetree~
+- [[https://github.com/alphapapa/org-now][org-now]] :: Conveniently show current Org tasks in a sidebar window
+  *Requires* : [[https://github.com/magnars/dash.el][dash.el]]
+- [[https://github.com/meedstrom/org-super-links][org-super-links]] :: Package to create links with auto backlinks
+- [[https://github.com/dmitrym0/org-sie][org-sie]] :: Spaced repetition algorythm to prioritize tasks
+  
 ** Publishing & Export
-- [[https://github.com/Zilong-Li/org-tufte][org-tufte]] :: Elegant Tufte-style exports.
-  *Requires* : LaTeX
-- [[https://github.com/alphapapa/org-make-toc][org-make-toc]] :: Auto-generate tables of contents
+- [[https://github.com/Zilong-Li/org-tufte][org-tufte]] :: Elegant Tufte-style captions exports
+- [[https://github.com/alphapapa/org-make-toc][org-make-toc]] :: Auto-generate (1 or more) tables of contents
 - [[https://github.com/org-mime/org-mime][org-mime]] :: HTML email composition
-- [[https://github.com/yuchen-lea/org-media-note][org-media-note]] :: Timestamped notes for media files
-- [[https://github.com/akirak/org-epubinfo][org-epubinfo]] :: Extract ePub metadata
-- [[https://github.com/alphapapa/org-notely][org-notely]] :: Note-taking with Markdown support
-- [[https://github.com/nobiot/org-remark][org-remark]] :: Presentations with remark.js
+- [[https://github.com/yuchen-lea/org-media-note][org-media-note]] :: Take notes on media like videos and audios
+- [[https://github.com/alphapapa/org-notely][org-notely]] :: Quickly take a note in a new heading displayed in a new indirect buffer. To be seen as an alternative to built-in Org-capture
+- [[https://github.com/nobiot/org-remark][org-remark]] :: Highlight & annotate text, EWW, Info and EPUB
 
-** External Integrations
-- [[https://github.com/stefanv/org-link-github][org-link-github]] :: GitHub issue/pr linking
-- [[https://github.com/fuxialexander/org-pdftools][org-pdftools]] :: PDF annotations
-  *Requires* : pdf-tools
-- [[https://github.com/alphapapa/org-web-tools][org-web-tools]] :: Web content capture
-  *Requires* : curl, pandoc
-- [[https://github.com/akirak/org-hyprctl][org-hyprctl]] :: Hyprland window manager integration
-- [[https://github.com/akirak/org-volume][org-volume]] :: Volume control integration
+** Extra linking
+- [[https://github.com/stefanv/org-link-github][org-link-github]] :: Add support for GitHub linkings
+- [[https://github.com/fuxialexander/org-pdftools][org-pdftools]] :: Add support for pdftools links
+  *Requires* : pdf-tools, org-noter, org-noter-pdftools
+
+** Literate programming
+- [[https://github.com/akirak/org-starter][org-starter]] :: Configure files and directories in Org mode more easily
+  *Requires* : ~dash~ and ~dash-functional~, ~swiper~ if you use ~org-starter-swiper~
+- [[https://github.com/akirak/org-hyprctl][org-hyprctl]] :: Manage Hyprland's workspaces using Org files
+
+** Web capture
+- [[https://github.com/alphapapa/org-web-tools][org-web-tools]] :: Capture and archive web pages in org-mode
+  *Requires* : pandoc
+- [[https://github.com/akirak/orgabilize.el][orgabilize]] :: Export web pages as Org files
 
 ** Visual Enhancements
-- [[https://github.com/minad/org-modern][org-modern]] :: Modern UI styling
-  *Emacs* : 28+
-- [[https://github.com/jdtsmith/org-modern-indent][org-modern-indent]] :: Clean indentation guides
+- [[https://github.com/minad/org-modern][org-modern]] :: Cosmetic enhancement for your Org-files
+- [[https://github.com/jdtsmith/org-modern-indent][org-modern-indent]] :: To style indented blocs
+  *Requires* : ~(org-startup-indented t)~
 - [[https://github.com/alphapapa/org-sidebar][org-sidebar]] :: Sidebar for quick navigation
-- [[https://github.com/rails-to-cosmos/org-glance][org-glance]] :: Quick glance at Org mode files
-- [[https://github.com/dmitrym0/org-sie][org-sie]] :: Structured information extraction
+  *Enhancement* : Can be customized using Org-ql and Org-super-agenda
+- [[https://github.com/rails-to-cosmos/org-glance][org-glance]] :: An emacs front end for [[https://github.com/rails-to-cosmos/glance][Glance]]
+  *Status* : Alpha ?
+- [[https://github.com/jxq0/org-tidy][org-tidy]] :: Hide properties drawers
+- [[https://github.com/pondersson/org-bulletproof][org-bulletproof]] :: Automatic bullet cycling for Org mode
 
 ** Search & Analysis
-- [[https://github.com/alphapapa/org-ql][org-ql]] :: Advanced query language
-- [[https://github.com/tbanel/orgaggregate][orgaggregate]] :: Data aggregation
-- [[https://github.com/akirak/org-pivot-search][org-pivot-search]] :: Pivot search for Org mode
-- [[https://github.com/akirak/org-nlink.el][org-nlink]] :: Named links for Org mode
+- [[https://github.com/alphapapa/org-ql][org-ql]] :: Query language for Org-mode
+- [[https://github.com/tbanel/orgaggregate][orgaggregate]] :: Tables aggregation and querying
+- [[https://github.com/akirak/org-pivot-search][org-pivot-search]] :: Search commands for Org-mode
+  *Requires* : org-ql
+- [[https://github.com/akirak/org-nlink.el][org-nlink]] :: Commands for in-file links in org-mode
 
 ** Reference Management
-- [[https://github.com/jkitchin/org-ref][org-ref]] :: Citations and bibliography
-  *Requires* : LaTeX, Python
-- [[https://github.com/ahmed-shariff/org-noter][org-noter (fork)]] :: Notes alongside documents
-  *Unmaintained* : Last updated 2021.
-- [[https://github.com/akirak/orgabilize.el][orgabilize]] :: Organize Org mode files
+- [[https://github.com/bdarcus/citar][Citar]] :: Add citations in org documents using BibTex
+- [[https://github.com/jkitchin/org-ref][org-ref]] :: Citations and bibliography. To be seen as an Org-cite alternative
+- [[https://github.com/ahmed-shariff/org-noter][org-noter (fork)]] :: Annotate documents using Org-mode
+- [[ttps://github.com/tecosaur/org-glossary][org-glossary]] :: Glossary, acronyms and index management in Org mode leveraging org's definition list
+- [[https://github.com/akirak/org-epubinfo][org-epubinfo]] :: Manage ePub metadatas using dynamic blocs
+- [[https://github.com/akirak/org-volume][org-volume]] :: Manage book (among others) metadatas using dynamic blocs
 
 ** Experimental/Advanced
-- [[https://github.com/nobiot/org-transclusion][org-transclusion]] :: Transclude content across files
-  *Status* : Beta
-- [[https://github.com/akirak/org-dog][org-dog]] :: Daily journaling toolkit
-  *Emacs* : 28+
+- [[https://github.com/nobiot/org-transclusion][org-transclusion]] :: Keep blocs of content in sync between files
+  :LOAD: :after org
+- [[https://github.com/akirak/org-dog][org-dog]] :: Org file manager, thought to be an Org-Roam alternative for per subject file rather than per topic or keyword
+  *Status*: Beta
 
 ** Magit & Version Control
-- [[https://github.com/magit/orgit][orgit]] :: Git integration for Org
+- [[https://github.com/magit/orgit][orgit]] :: Add support for backlinking Org files and Magit buffers
   *Requires* : Magit
-
-** Miscellaneous
-- [[https://github.com/jxq0/org-tidy][org-tidy]] :: Cleanup Org files
-- [[https://github.com/pondersson/org-bulletproof][org-bulletproof]] :: Prevent accidental edits
-- [[https://github.com/akirak/org-glossary][org-glossary]] :: Glossary management in Org mode
