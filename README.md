@@ -2,6 +2,10 @@
 
 Currated list of actually maintened Org-Mode tools and extensions
 
+- TODO customise markers
+- TODO Add help required
+- TODO Fix columns length
+
 # Categories
 ## Knowledge Management
 | Tool | Use | Stars | Release | Last commit | Help needed |
