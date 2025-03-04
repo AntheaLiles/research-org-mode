@@ -3,172 +3,173 @@
 Currated list of actually maintened Org-Mode tools and extensions
 
 * Categories
-** Knowledge Management & Zettelkasten
+** Knowledge Management
 - [[https://github.com/meedstrom/org-node][org-node]] :: Note taking system alternative to Org-roam, intended to be speed
- | https://badgen.net/github/stars/meedstrom/org-node | https://badgen.net/github/release/meedstrom/org-node | [[https://badgen.net/github/last-commit/meedstrom/org-node]] | https://badgen.net/github/last-commit/meedstrom/org-node/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/meedstrom/org-node | <img src="https://badgen.net/github/release/meedstrom/org-node | <img src="https://badgen.net/github/last-commit/meedstrom/org-node]]   | <img src="https://badgen.net/github/last-commit/meedstrom/org-node/help-wanted/open |
+
 - [[https://github.com/meedstrom/org-node-fakeroam][org-node-fakeroam]] :: Used to speed up Org-Roam or to be combined to Org-node
- | https://badgen.net/github/stars/meedstrom/org-node-fakeroam | https://badgen.net/github/release/meedstrom/org-node-fakeroam | [[https://badgen.net/github/last-commit/meedstrom/org-node-fakeroam]] | https://badgen.net/github/last-commit/meedstrom/org-node-fakeroam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/meedstrom/org-node-fakeroam | <img src="https://badgen.net/github/release/meedstrom/org-node-fakeroam | <img src="https://badgen.net/github/last-commit/meedstrom/org-node-fakeroam]]   | <img src="https://badgen.net/github/last-commit/meedstrom/org-node-fakeroam/help-wanted/open |
+
 - [[https://github.com/org-roam/org-roam][org-roam]] :: Networked note-taking system
   *Requires* : SQLite
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]]   | <img src="https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+
 - [[https://github.com/org-roam/org-roam-bibtex][org-roam-bibtex]] :: Integrate BibTeX citations with org-roam
   *Requires*: org-roam
- | https://badgen.net/github/stars/org-roam/org-roam-bibtex | https://badgen.net/github/release/org-roam/org-roam-bibtex | [[https://badgen.net/github/last-commit/org-roam/org-roam-bibtex]] | https://badgen.net/github/last-commit/org-roam/org-roam-bibtex/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam-bibtex | <img src="https://badgen.net/github/release/org-roam/org-roam-bibtex | <img src="https://badgen.net/github/last-commit/org-roam/org-roam-bibtex]] | <img src="https://badgen.net/github/last-commit/org-roam/org-roam-bibtex/help-wanted/open |
 
 - [[https://github.com/Kungsgeten/org-brain][org-brain]] :: Mind-mapping and brainstorming
   *Emacs* : 26+
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]]  | <img src="https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/ahmed-shariff/org-roam-ql][org-roam-ql]] :: Advanced query interface for org-roam
   *Requires*: org-roam
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]] | <img src="https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/yibie/org-supertag][org-supertag]] :: Enhance org-mode tag system, borrow idea from tana
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]] | <img src="https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/bastibe/org-journal][org-journal]] :: A simple org-mode based journaling mode
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]] | <img src="https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 ** Task & Agenda Management
 - [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]] :: Customizable agenda views
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]] | <img src="https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]] :: Visual time-block planning
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]] | <img src="https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/colonelpanic8/org-window-habit][org-window-habit]] :: Habit tracking with pop-up reminders
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam |<img src="https://badgen.net/github/release/org-roam/org-roam  | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]]   | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/org-roam/org-roam-ui][org-roam-ui]] :: Graph visualization for org-roam
   *Requires*: org-roam, Node.js
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]]   | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/akirak/org-reverse-datetree][org-reverse-datetree]] :: Reverse date tree
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | <img src="https://badgen.net/github/last-commit/org-roam/org-roam]]   | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/akirak/org-chronos][org-chronos]] :: Opinionated time management layer for Org mode
   *Enhancement* : Can be combined with ~org-journal~ or ~org-reverse-datetree~
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/alphapapa/org-now][org-now]] :: Conveniently show current Org tasks in a sidebar window
   *Requires* : [[https://github.com/magnars/dash.el][dash.el]]
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/meedstrom/org-super-links][org-super-links]] :: Package to create links with auto backlinks
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/dmitrym0/org-sie][org-sie]] :: Spaced repetition algorythm to prioritize tasks
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
   
 ** Publishing & Export
 - [[https://github.com/Zilong-Li/org-tufte][org-tufte]] :: Elegant Tufte-style captions exports
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/alphapapa/org-make-toc][org-make-toc]] :: Auto-generate (1 or more) tables of contents
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/org-mime/org-mime][org-mime]] :: HTML email composition
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/yuchen-lea/org-media-note][org-media-note]] :: Take notes on media like videos and audios
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/alphapapa/org-notely][org-notely]] :: Quickly take a note in a new heading displayed in a new indirect buffer. To be seen as an alternative to built-in Org-capture
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/nobiot/org-remark][org-remark]] :: Highlight & annotate text, EWW, Info and EPUB
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
-
-** Extra linking
-- [[https://github.com/stefanv/org-link-github][org-link-github]] :: Add support for GitHub linkings
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
-
-- [[https://github.com/fuxialexander/org-pdftools][org-pdftools]] :: Add support for pdftools links
-  *Requires* : pdf-tools, org-noter, org-noter-pdftools
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 ** Literate programming
 - [[https://github.com/akirak/org-starter][org-starter]] :: Configure files and directories in Org mode more easily
   *Requires* : ~dash~ and ~dash-functional~, ~swiper~ if you use ~org-starter-swiper~
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/akirak/org-hyprctl][org-hyprctl]] :: Manage Hyprland's workspaces using Org files
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 ** Web capture
 - [[https://github.com/alphapapa/org-web-tools][org-web-tools]] :: Capture and archive web pages in org-mode
   *Requires* : pandoc
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/akirak/orgabilize.el][orgabilize]] :: Export web pages as Org files
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 ** Visual Enhancements
 - [[https://github.com/minad/org-modern][org-modern]] :: Cosmetic enhancement for your Org-files
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/jdtsmith/org-modern-indent][org-modern-indent]] :: To style indented blocs
   *Requires* : ~(org-startup-indented t)~
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/alphapapa/org-sidebar][org-sidebar]] :: Sidebar for quick navigation
   *Enhancement* : Can be customized using Org-ql and Org-super-agenda
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/rails-to-cosmos/org-glance][org-glance]] :: An emacs front end for [[https://github.com/rails-to-cosmos/glance][Glance]]
   *Status* : Alpha ?
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/jxq0/org-tidy][org-tidy]] :: Hide properties drawers
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/pondersson/org-bulletproof][org-bulletproof]] :: Automatic bullet cycling for Org mode
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 ** Search & Analysis
 - [[https://github.com/alphapapa/org-ql][org-ql]] :: Query language for Org-mode
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/tbanel/orgaggregate][orgaggregate]] :: Tables aggregation and querying
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/akirak/org-pivot-search][org-pivot-search]] :: Search commands for Org-mode
   *Requires* : org-ql
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/akirak/org-nlink.el][org-nlink]] :: Commands for in-file links in org-mode
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 ** Reference Management
 - [[https://github.com/bdarcus/citar][Citar]] :: Add citations in org documents using BibTex
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/jkitchin/org-ref][org-ref]] :: Citations and bibliography. To be seen as an Org-cite alternative
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/ahmed-shariff/org-noter][org-noter (fork)]] :: Annotate documents using Org-mode
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/tecosaur/org-glossary][org-glossary]] :: Glossary, acronyms and index management in Org mode leveraging org's definition list
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/akirak/org-epubinfo][org-epubinfo]] :: Manage ePub metadatas using dynamic blocs
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/akirak/org-volume][org-volume]] :: Manage book (among others) metadatas using dynamic blocs
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 ** Experimental/Advanced
 - [[https://github.com/nobiot/org-transclusion][org-transclusion]] :: Keep blocs of content in sync between files
-  *LOAD* :after org
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
 - [[https://github.com/akirak/org-dog][org-dog]] :: Org file manager, thought to be an Org-Roam alternative for per subject file rather than per topic or keyword
-  *Status*: Beta
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+  *Status*: Not ready
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
 
-** Magit & Version Control
+** Extra linking
+- [[https://github.com/stefanv/org-link-github][org-link-github]] :: Add support for GitHub linkings
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+
+- [[https://github.com/fuxialexander/org-pdftools][org-pdftools]] :: Add support for pdftools links
+  *Requires* : pdf-tools, org-noter, org-noter-pdftools
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+
 - [[https://github.com/magit/orgit][orgit]] :: Add support for backlinking Org files and Magit buffers
   *Requires* : Magit
- | https://badgen.net/github/stars/org-roam/org-roam | https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ | <img src="https://badgen.net/github/stars/org-roam/org-roam" /> | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
