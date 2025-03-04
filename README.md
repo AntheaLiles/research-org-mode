@@ -6,7 +6,8 @@ Currated list of actually maintened Org-Mode tools and extensions
 - TODO Add help required
 - TODO Fix columns length
 
-[![](https://stable.melpa.org/packages/lsp-mode-badge.svg)](https://stable.melpa.org/#/lsp-mode)
+https://stable.melpa.org/#/
+https://melpa.org/#/
 
 # Categories
 ## Knowledge Management
