@@ -172,4 +172,4 @@ Currated list of actually maintened Org-Mode tools and extensions
 
 - [[https://github.com/magit/orgit][orgit]] :: Add support for backlinking Org files and Magit buffers
   *Requires* : Magit
- | <img src="https://badgen.net/github/stars/org-roam/org-roam" /> | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
+ <img src="https://badgen.net/github/stars/org-roam/org-roam" />  | <img src="https://badgen.net/github/release/org-roam/org-roam | [[https://badgen.net/github/last-commit/org-roam/org-roam]] | https://badgen.net/github/last-commit/org-roam/org-roam/help-wanted/open |
