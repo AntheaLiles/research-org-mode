@@ -29,49 +29,43 @@ https://melpa.org/#/
 - [[https://github.com/ahmed-shariff/org-roam-ql][org-roam-ql]] :: Advanced query interface for org-roam
 #+HTML: <table><tr><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/ahmed-shariff/org-roam-ql"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/ahmed-shariff/org-roam-ql"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/ahmed-shariff/org-roam-ql"></td></tr></table>
 - [[https://github.com/yibie/org-supertag][org-supertag]] :: Enhance org-mode tag system, borrow idea from tana
-#+HTML: <table><tr><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/yibie/org-supertag"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/meedstrom/yibie/org-supertag"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/yibie/org-supertag"></td></tr></table>
+#+HTML: <table><tr><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/yibie/org-supertag"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/yibie/org-supertag"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/yibie/org-supertag"></td></tr></table>
 - [[https://github.com/bastibe/org-journal][org-journal]] :: A simple org-mode based journaling mode
 #+HTML: <table><tr><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/bastibe/org-journal"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/bastibe/org-journal"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/bastibe/org-journal"></td></tr></table>
 
 ** Task & Agenda Management
-*** [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]]
+- [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]] ::
 #+HTML: <table><tr><td>Customizable agenda views</td><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/alphapapa/org-super-agenda"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/alphapapa/org-super-agenda"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/alphapapa/org-super-agenda"></td></tr></table>
-
-*** [[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]]
+- [[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]] ::
 #+HTML: <table><tr><td>Visual time-block planning</td><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/ichernyshovvv/org-timeblock"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/ichernyshovvv/org-timeblock"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/ichernyshovvv/org-timeblock"></td></tr></table>
-
-*** [[https://github.com/colonelpanic8/org-window-habit][org-window-habit]]     
+- [[https://github.com/colonelpanic8/org-window-habit][org-window-habit]] ::
 #+HTML: <table><tr><td>Habit tracking with pop-up reminders</td><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/colonelpanic8/org-window-habit"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/colonelpanic8/org-window-habit"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/colonelpanic8/org-window-habit"></td></tr></table>
-
-*** [[https://github.com/org-roam/org-roam-ui][org-roam-ui]]
+- [[https://github.com/org-roam/org-roam-ui][org-roam-ui]] ::
 #+HTML: <table><tr><td>Graph visualization for org-roam</td><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/org-roam/org-roam-ui"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/org-roam/org-roam-ui"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/org-roam/org-roam-ui"></td></tr></table>
-
-*** [[https://github.com/akirak/org-reverse-datetree][org-reverse-datetree]]
+- [[https://github.com/akirak/org-reverse-datetree][org-reverse-datetree]] ::
 #+HTML: <table><tr><td>Reverse date tree</td><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/akirak/org-reverse-datetree"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/akirak/org-reverse-datetree"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/akirak/org-reverse-datetree"></td></tr></table>
-
-*** [[https://github.com/akirak/org-chronos][org-chronos]]
+- [[https://github.com/akirak/org-chronos][org-chronos]] ::
 #+HTML: <table><tr><td>Opinionated time management layer for Org mode</td><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/akirak/org-chronos"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/akirak/org-chronos"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/akirak/org-chronos"></td></tr></table>
-
-*** [[https://github.com/alphapapa/org-now][org-now]]
+- [[https://github.com/alphapapa/org-now][org-now]] ::
 #+HTML: <table><tr><td>Conveniently show current Org tasks in a sidebar window</td><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/alphapapa/org-now"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/alphapapa/org-now"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/alphapapa/org-now"></td></tr></table>
-
-*** [[https://github.com/meedstrom/org-super-links][org-super-links]]
+- [[https://github.com/meedstrom/org-super-links][org-super-links]] ::
 #+HTML: <table><tr><td>Package to create links with auto backlinks</td><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/meedstrom/org-super-links"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/meedstrom/org-super-links"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/meedstrom/org-super-links"></td></tr></table>
-
-*** [[https://github.com/dmitrym0/org-sie][org-sie]] 
+- [[https://github.com/dmitrym0/org-sie][org-sie]] ::
 #+HTML: <table><tr><td>Spaced repetition algorythm to prioritize tasks</td><td><img alt="Stars" style="height:16px" src="https://badgen.net/github/stars/dmitrym0/org-sie"></td><td><img alt="Release" style="height:16px" src="https://badgen.net/github/release/dmitrym0/org-sie"></td><td><img alt="Last commit" style="height:16px" src="https://badgen.net/github/last-commit/dmitrym0/org-sie"></td></tr></table>
 
 ** Publishing & Export
 
-| Tool           | Use                                                                                                                           |                           Stars                           |                           Release                           |                           Last commit                           | Help needed |
-|----------------+-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+-----------------------------------------------------------------+-------------|
-| <20>           | <80>                                                                                                                          |                            <c10>                          |                            <c10>                            |                              <c10>                              |    <c10>    |
-| [[https://github.com/Zilong-Li/org-tufte][org-tufte]]      | Elegant Tufte-style captions exports                                                                                          |    [[https://badgen.net/github/stars/Zilong-Li/org-tufte]]    |    [[https://badgen.net/github/release/Zilong-Li/org-tufte]]    |    [[https://badgen.net/github/last-commit/Zilong-Li/org-tufte]]    |             |
-| [[https://github.com/alphapapa/org-make-toc][org-make-toc]]   | Auto-generate (1 or more) tables of contents                                                                                  |  [[https://badgen.net/github/stars/alphapapa/org-make-toc]]   |  [[https://badgen.net/github/release/alphapapa/org-make-toc]]   |  [[https://badgen.net/github/last-commit/alphapapa/org-make-toc]]   |             |
-| [[https://github.com/org-mime/org-mime][org-mime]]       | HTML email composition                                                                                                        |     [[https://badgen.net/github/stars/org-mime/org-mime]]     |     [[https://badgen.net/github/release/org-mime/org-mime]]     |     [[https://badgen.net/github/last-commit/org-mime/org-mime]]     |             |
-| [[https://github.com/yuchen-lea/org-media-note][org-media-note]] | Take notes on media like videos and audios                                                                                    | [[https://badgen.net/github/stars/yuchen-lea/org-media-note]] | [[https://badgen.net/github/release/yuchen-lea/org-media-note]] | [[https://badgen.net/github/last-commit/yuchen-lea/org-media-note]] |             |
-| [[https://github.com/alphapapa/org-notely][org-notely]]     | Quickly take a note in a new heading displayed in a new indirect buffer. To be seen as an alternative to built-in Org-capture |   [[https://badgen.net/github/stars/alphapapa/org-notely]]    |   [[https://badgen.net/github/release/alphapapa/org-notely]]    |   [[https://badgen.net/github/last-commit/alphapapa/org-notely]]    |             |
-| [[https://github.com/nobiot/org-remark][org-remark]]     | Highlight & annotate text, EWW, Info and EPUB                                                                                 |     [[https://badgen.net/github/stars/nobiot/org-remark]]     |     [[https://badgen.net/github/release/nobiot/org-remark]]     |     [[https://badgen.net/github/last-commit/nobiot/org-remark]]     |             |
+- [[https://github.com/Zilong-Li/org-tufte][org-tufte]] :: Elegant Tufte-style captions exports
+
+- [[https://github.com/alphapapa/org-make-toc][org-make-toc]]  :: Auto-generate (1 or more) tables of contents
+
+- [[https://github.com/org-mime/org-mime][org-mime]] :: HTML email composition
+
+- [[https://github.com/yuchen-lea/org-media-note][org-media-note]] :: Take notes on media like videos and audios
+
+- [[https://github.com/alphapapa/org-notely][org-notely]] :: Quickly take a note in a new heading displayed in a new indirect buffer. To be seen as an alternative to built-in Org-capture 
+
+- [[https://github.com/nobiot/org-remark][org-remark]] :: Highlight & annotate text, EWW, Info and EPUB  
 
 ** Literate programming
 
