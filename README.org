@@ -11,7 +11,7 @@ Tasks :
 **** TODO Customise markers
 test :
 
-<img alt="github/stars/org-roam/org-roam" style="height:30px" src="github/stars/org-roam/org-roam">
+#+HTML: <img alt="github/stars/org-roam/org-roam" style="height:30px" src="github/stars/org-roam/org-roam">
 
 **** TODO Add help required through appropriate repos' tags
 **** DONE Fix columns length (to check)
