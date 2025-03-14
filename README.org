@@ -16,29 +16,22 @@ https://melpa.org/#/
 * Categories
 ** Knowledge Management
 
-*** [[https://github.com/meedstrom/org-node][org-node]]
-#+HTML: <table><tr><td>Note taking system alternative to Org-roam, intended to be speed</td><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/meedstrom/org-node"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/meedstrom/org-node"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/meedstrom/org-node"></td></tr></table>
-
-*** [[https://github.com/meedstrom/org-node-fakeroam][org-node-fakeroam]] 
-#+HTML: <table><tr><td>Used to speed up Org-Roam or to be combined to Org-node</td><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/meedstrom/org-node-fakeroam"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/meedstrom/org-node-fakeroam"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/meedstrom/org-node-fakeroam"></td></tr></table>
-
-*** [[https://github.com/org-roam/org-roam][org-roam]]
-#+HTML: <table><tr><td>Networked note-taking system</td><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/org-roam/org-roam"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/org-roam/org-roam"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commitorg-roam/org-roam"></td></tr></table>
-
-*** [[https://github.com/org-roam/org-roam-bibtex][org-roam-bibtex]]  
-#+HTML: <table><tr><td>Integrate BibTeX citations with org-roam</td><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/org-roam/org-roam-bibtex"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/org-roam/org-roam-bibtex"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/org-roam/org-roam-bibtex"></td></tr></table>
-
-*** [[https://github.com/Kungsgeten/org-brain][org-brain]]
-#+HTML: <table><tr><td>Mind-mapping and brainstorming</td><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/Kungsgeten/org-brain"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/Kungsgeten/org-brain"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/Kungsgeten/org-brain"></td></tr></table>
-
-*** [[https://github.com/ahmed-shariff/org-roam-ql][org-roam-ql]]
-#+HTML: <table><tr><td>Advanced query interface for org-roam</td><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/ahmed-shariff/org-roam-ql"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/ahmed-shariff/org-roam-ql"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/ahmed-shariff/org-roam-ql"></td></tr></table>
-
-*** [[https://github.com/yibie/org-supertag][org-supertag]]
-#+HTML: <table><tr><td>Enhance org-mode tag system, borrow idea from tana</td><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/yibie/org-supertag"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/meedstrom/yibie/org-supertag"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/yibie/org-supertag"></td></tr></table>
-
-*** [[https://github.com/bastibe/org-journal][org-journal]]
-#+HTML: <table><tr><td>A simple org-mode based journaling mode</td><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/bastibe/org-journal"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/bastibe/org-journal"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/bastibe/org-journal"></td></tr></table>
+- [[https://github.com/meedstrom/org-node][org-node]] :: Note taking system alternative to Org-roam, intended to be speed
+#+HTML: <table><tr><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/meedstrom/org-node"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/meedstrom/org-node"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/meedstrom/org-node"></td></tr></table>
+- [[https://github.com/meedstrom/org-node-fakeroam][org-node-fakeroam]] :: Used to speed up Org-Roam or to be combined to Org-node
+#+HTML: <table><tr><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/meedstrom/org-node-fakeroam"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/meedstrom/org-node-fakeroam"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/meedstrom/org-node-fakeroam"></td></tr></table>
+- [[https://github.com/org-roam/org-roam][org-roam]] :: Networked note-taking system
+#+HTML: <table><tr><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/org-roam/org-roam"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/org-roam/org-roam"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/org-roam/org-roam"></td></tr></table>
+- [[https://github.com/org-roam/org-roam-bibtex][org-roam-bibtex]] :: Integrate BibTeX citations with org-roam
+#+HTML: <table><tr><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/org-roam/org-roam-bibtex"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/org-roam/org-roam-bibtex"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/org-roam/org-roam-bibtex"></td></tr></table>
+- [[https://github.com/Kungsgeten/org-brain][org-brain]] :: Mind-mapping and brainstorming
+#+HTML: <table><tr><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/Kungsgeten/org-brain"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/Kungsgeten/org-brain"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/Kungsgeten/org-brain"></td></tr></table>
+- [[https://github.com/ahmed-shariff/org-roam-ql][org-roam-ql]] :: Advanced query interface for org-roam
+#+HTML: <table><tr><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/ahmed-shariff/org-roam-ql"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/ahmed-shariff/org-roam-ql"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/ahmed-shariff/org-roam-ql"></td></tr></table>
+- [[https://github.com/yibie/org-supertag][org-supertag]] :: Enhance org-mode tag system, borrow idea from tana
+#+HTML: <table><tr><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/yibie/org-supertag"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/meedstrom/yibie/org-supertag"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/yibie/org-supertag"></td></tr></table>
+- [[https://github.com/bastibe/org-journal][org-journal]] :: A simple org-mode based journaling mode
+#+HTML: <table><tr><td><img alt="Stars" style="height:24px" src="https://badgen.net/github/stars/bastibe/org-journal"></td><td><img alt="Release" style="height:24px" src="https://badgen.net/github/release/bastibe/org-journal"></td><td><img alt="Last commit" style="height:24px" src="https://badgen.net/github/last-commit/bastibe/org-journal"></td></tr></table>
 
 ** Task & Agenda Management
 *** [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]]
