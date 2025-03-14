@@ -11,7 +11,7 @@ Tasks :
 **** TODO Customise markers
 test :
 
-#+HTML: <img alt="github/stars/org-roam/org-roam" style="height:30px" src="github/stars/org-roam/org-roam">
+#+HTML: <img alt="Org-node's stars" style="height:30px" src="https://badgen.net/github/stars/meedstrom/org-node">
 
 **** TODO Add help required through appropriate repos' tags
 **** DONE Fix columns length (to check)
