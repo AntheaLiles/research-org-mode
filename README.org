@@ -11,8 +11,21 @@ Tasks :
 **** TODO Customise markers
 test :
 
+with HTML Header :
+#+HTML: <img alt="Org-node's stars" style="height:30px" src="https://badgen.net/github/stars/meedstrom/org-node">
+
+HTML Header in table :
 | #+HTML: <img alt="Org-node's stars" style="height:30px" src="https://badgen.net/github/stars/meedstrom/org-node"> |
 
+
+straight url
+[[https://badgen.net/github/stars/meedstrom/org-node]]
+
+img ref :
+[[img:github-stars]]
+-----
+[img:github-stars] https://badgen.net/github/stars/meedstrom/org-node
+-----
 **** TODO Add help required through appropriate repos' tags
 **** DONE Fix columns length (to check)
 
