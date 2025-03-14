@@ -5,6 +5,7 @@
 
 Currated list of actually maintened Org-Mode tools and extensions
 
+- TODO Fix badges (how to?)
 - TODO customise markers
 - TODO Add help required
 - TODO Fix columns length
@@ -101,6 +102,7 @@ https://stable.melpa.org/#/ https://melpa.org/#/
 |------------------+---------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+-------------|
 | [[https://github.com/nobiot/org-transclusion][org-transclusion]] | Keep blocs of content in sync between files                                                                               | [[https://badgen.net/github/stars/nobiot/org-transclusion]] | [[https://badgen.net/github/release/nobiot/org-transclusion]] | [[https://badgen.net/github/last-commit/nobiot/org-transclusion]] |             |
 | [[https://github.com/akirak/org-dog][org-dog]]          | *NOT READY* Org file manager, thought to be an Org-Roam alternative for per subject file rather than per topic or keyword | [[https://badgen.net/github/stars/akirak/org-dog]]          | [[https://badgen.net/github/release/akirak/org-dog]]          | [[https://badgen.net/github/last-commit/akirak/org-dog]]          |             |
+| [[https://github.com/protesilaos/denote][Denote]]           | Allow users to define file naming schemes                                                                                 | [[https://badgen.net/github/stars/protesilaos/denote]]      | [[https://badgen.net/github/release/protesilaos/denote]]      | [[https://badgen.net/github/last-commit/protesilaos/denote]]      |             |
 
 ** Extra linking
 
