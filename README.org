@@ -17,6 +17,8 @@ with HTML Header :
 HTML Header in table :
 | #+HTML: <img alt="Org-node's stars" style="height:30px" src="https://badgen.net/github/stars/meedstrom/org-node"> |
 
+Raw HTML in a cell :
+| <img alt="Org-node's stars" style="height:30px" src="https://badgen.net/github/stars/meedstrom/org-node"> |
 
 straight url
 [[https://badgen.net/github/stars/meedstrom/org-node]]
